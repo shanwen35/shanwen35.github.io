@@ -2,15 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://shanwen35.github.io/index.html</loc>
-    <lastmod>2019-04-11</lastmod>
+    <lastmod>2019-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://shanwen35.github.io/images/557a1poster.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://shanwen35.github.io/images/557a1poster_2x.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://shanwen35.github.io/images/557logo.png</image:loc>
     </image:image>
@@ -150,16 +144,22 @@
       <image:loc>http://shanwen35.github.io/images/iconfacebook_2x.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://shanwen35.github.io/images/iconyoutube.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://shanwen35.github.io/images/iconyoutube_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://shanwen35.github.io/images/iconinstagram.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://shanwen35.github.io/images/iconinstagram_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://shanwen35.github.io/images/iconyoutube.png</image:loc>
+      <image:loc>http://shanwen35.github.io/images/top.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://shanwen35.github.io/images/iconyoutube_2x.png</image:loc>
+      <image:loc>http://shanwen35.github.io/images/top_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
