@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="shanwen35.github.io" resolutions="1x,2x" timestamp="1556343080979">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="shanwen35.github.io" resolutions="1x,2x" timestamp="1556343313923">
   <folder name="css">
     <file name="site_global.css" crc="314571582"/>
     <file name="index.css" crc="4190734223" ref="index"/>
@@ -239,7 +239,7 @@
     <file name="top_2x.png" crc="4273335807" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="557-park-favicon.ico" crc="3869788319" ref="index"/>
+    <file name="557-park-favicon.ico" crc="4126871531" ref="index"/>
   </folder>
-  <file name="index.html" crc="474301934" seo="true" mt="1556343065791" redirect="true"/>
+  <file name="index.html" crc="73853936" seo="true" mt="1556343300145" redirect="true"/>
 </manifest>
